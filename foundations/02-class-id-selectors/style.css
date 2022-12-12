@@ -1,0 +1,19 @@
+#Div1 {
+  color: #0000ff;
+  font-size: 32px;
+}
+
+#Div2 {
+  background-color: rgb(145, 238, 145);
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.OddNumberElement {
+  background-color: lightpink;
+  font-family: "Veranda", "DejaVu Sans", sans-serif;
+}
+
+.CoolClass {
+  font-size: 24px;
+}
